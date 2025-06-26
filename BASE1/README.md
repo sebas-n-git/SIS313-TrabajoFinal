@@ -1,4 +1,4 @@
-# Configuración del Servidor Maestro - MariaDB (192.168.1.104)
+# Configuración del Servidor Maestro - MariaDB 
 
 <div align="justify">
 
